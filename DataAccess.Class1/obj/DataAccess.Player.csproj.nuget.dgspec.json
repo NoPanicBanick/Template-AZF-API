@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\src\\Templates\\Template-AZFCrud\\DataAccess.Player\\DataAccess.Player.csproj": {}
+  },
+  "projects": {
+    "C:\\src\\Templates\\Template-AZFCrud\\DataAccess.Player\\DataAccess.Player.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\Templates\\Template-AZFCrud\\DataAccess.Player\\DataAccess.Player.csproj",
+        "projectName": "DataAccess.Player",
+        "projectPath": "C:\\src\\Templates\\Template-AZFCrud\\DataAccess.Player\\DataAccess.Player.csproj",
+        "packagesPath": "C:\\Users\\ryley\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\Templates\\Template-AZFCrud\\DataAccess.Player\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ryley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/NoPanicBanick/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "PoorMan": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

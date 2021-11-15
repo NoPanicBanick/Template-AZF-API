@@ -1,0 +1,10 @@
+C:\src\AZFs\API.Player\DataAccess.Player\obj\Debug\netstandard2.1\DataAccess.Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\AZFs\API.Player\DataAccess.Player\obj\Debug\netstandard2.1\DataAccess.Player.AssemblyInfoInputs.cache
+C:\src\AZFs\API.Player\DataAccess.Player\obj\Debug\netstandard2.1\DataAccess.Player.AssemblyInfo.cs
+C:\src\AZFs\API.Player\DataAccess.Player\obj\Debug\netstandard2.1\DataAccess.Player.csproj.CoreCompileInputs.cache
+C:\src\AZFs\API.Player\DataAccess.Player\bin\Debug\netstandard2.1\DataAccess.Player.deps.json
+C:\src\AZFs\API.Player\DataAccess.Player\bin\Debug\netstandard2.1\DataAccess.Player.dll
+C:\src\AZFs\API.Player\DataAccess.Player\bin\Debug\netstandard2.1\DataAccess.Player.pdb
+C:\src\AZFs\API.Player\DataAccess.Player\obj\Debug\netstandard2.1\DataAccess.Player.dll
+C:\src\AZFs\API.Player\DataAccess.Player\obj\Debug\netstandard2.1\DataAccess.Player.pdb
+C:\src\AZFs\API.Player\DataAccess.Player\obj\Debug\netstandard2.1\DataAccess.Player.csproj.AssemblyReference.cache
